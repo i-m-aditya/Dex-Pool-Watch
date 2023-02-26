@@ -1,0 +1,2 @@
+# Dex-Pool-Watch
+DEXPoolWatchisaprojectthatmonitorsdecentralisedexchangesandnotifiesuserswheneveranewpooliscreated.Ithelpsusersstayupto date with the latest developments in the DEX market.
